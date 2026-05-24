@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Priyanshu! 👋
 
-### 📊 BBA Finance Graduate | Aspiring Data Analyst 📈
+### 📊 BBA Finance Graduate | Data Analyst 📈
 
 I am a Business Finance professional transitioning into the world of Data Analytics. I love uncovering the "why" behind the numbers and using data to drive smarter business decisions. My unique strength lies in combining financial literacy with modern analytical tools.
 
@@ -26,7 +26,7 @@ I am a Business Finance professional transitioning into the world of Data Analyt
 ### 🚀 What I’m Up To
 * 📉 **Learning:** Advanced SQL, Python for Data Science, and Power BI/Tableau.
 * 🔍 **Focusing on:** Financial Modeling, Exploratory Data Analysis (EDA), and Market Trends.
-* 💼 **Goal:** To secure a role where I can apply data-driven insights to financial problems.
+* 💼 **Goal:** Seeking a Data Analyst role to deliver data-driven financial insights and business solutions.
 
 
 ## 🌐 Socials:
