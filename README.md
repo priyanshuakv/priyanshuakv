@@ -57,6 +57,5 @@ I am a Business Finance professional transitioning into the world of Data Analyt
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshuakv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile views](https://gpvc.arturio.dev/priyanshuakv?color=007ec6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
